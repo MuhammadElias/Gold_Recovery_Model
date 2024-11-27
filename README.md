@@ -1,7 +1,16 @@
 # Gold_Recovery_Model
 
+## Intoduction:
 
-Technological Process
+In this project, we will be developing a prototype of a machine learning model for Zyfra, a company that specializes in providing efficiency solutions for heavy industry. The goal of this project is to predict the amount of gold recovered from gold ore, using data on extraction and purification processes. By optimizing production and eliminating unprofitable parameters, this model will help improve efficiency in the gold extraction process.
+
+To achieve this, we will need to prepare the data, perform data analysis, and develop and train a machine learning model. The documentation from pandas, matplotlib, and sklearn will be utilized throughout the project.
+
+By understanding and analyzing the stages of the gold extraction process, such as flotation and purification, and considering parameters such as rougher feed, reagent additions, and various technological and stage-specific factors, we aim to create a robust machine learning model that accurately predicts the amount of gold recovered from gold ore.
+
+
+
+## Technological Process
 How is gold extracted from ore? Let's look into the process stages.
 Mined ore undergoes primary processing to get the ore mixture or rougher feed, which is the raw material for flotation (also known as the rougher process). After flotation, the material is sent to two-stage purification.
 
